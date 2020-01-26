@@ -1,0 +1,63 @@
+body{
+margin: 0;
+padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-color{
+
+  background-image: linear-gradient(to right, #ec77ab 0%, #7873f5 100%);
+
+}
+.hero-section{
+  background-image: url(../img/foto.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+
+.color-grey{
+  background-color: #eeeff1;
+}
+.carousel-indicators {
+  top: 60px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+
+.one{
+padding-left: 41%;
+padding-right: 41%;
+}
+
+.two{
+  padding-right: 50%;
+  padding-left: 39%;
+}
+
+.three{
+  padding-right: 50%;
+  padding-left: 35%;
+}
+
+.four{
+  padding-right: 50%;
+padding-left: 37%;
+}
+
+
+.img-carr{
+  width: 35px;
+}
+
+.ult{
+  display: flex;
+  justify-content: center;
+}
