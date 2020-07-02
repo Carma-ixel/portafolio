@@ -1,7 +1,7 @@
 body{
 margin: 0;
 padding: 0;
-    font-family: 'Poppins', sans-serif;
+font-family: 'Poppins', sans-serif;
 }
 
 .bg-color{
@@ -9,11 +9,14 @@ padding: 0;
   background-image: linear-gradient(to right, #ec77ab 0%, #7873f5 100%);
 
 }
+.colors{
+  color: #95F5F7
+}
 .hero-section{
-  background-image: url(../img/foto.png);
+  background-image: url(../img/carma.jpg);
   background-size: cover;
   background-attachment: fixed;
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
   min-height: 500px;
 }
